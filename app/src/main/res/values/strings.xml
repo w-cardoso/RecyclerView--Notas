@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ceep App</string>
+    <string name="text_failure">Ocorreu um problema na alteração da nota</string>
+</resources>
